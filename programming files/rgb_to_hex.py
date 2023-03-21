@@ -1,4 +1,4 @@
-#added bugs: lacarr
+#fixed bugs: lacarr
 
 def rgb_to_hex(r, g, b):
     r = max(0, min(255, r))
